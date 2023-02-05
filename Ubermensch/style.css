@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin:  0;
+    background-color: black;
+}
+
+img {
+    width: 400px; 
+    height: 500px;
+    margin-right: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.image {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px 0px;
+    color: white;
+}
+
+.Newton-main-desc {
+    color: white;;
+}
+.Gauss-main-desc {
+    color: white;
+}
+
+
+.Newton-img {
+    float: left;
+}
+
+.Gauss-img {
+    display: block;
+    float: right;
+    margin-top: 80px;
+}
